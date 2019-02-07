@@ -20,7 +20,7 @@ How to use
 - Download the zip file on the [releases tab](https://github.com/Shin-NiL/godot-custom-mobile-template/releases);
 - extract the files on your file system;
 - on the Android Export options, point the "Custom Package" to these files (debug and release versions)
-![Image Sharing Screenshot](/media/export.png "Image Sharing Screenshot")
+![Export Screenshot](/media/export.png "Export Screenshot")
 - for further information about each module feature, please check the respective documentation;
 - profit!
 
