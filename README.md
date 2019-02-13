@@ -21,10 +21,10 @@ How to use
 - extract the files on your file system;
 - on the Android Export options, point the "Custom Package" to these files (debug and release versions)
 ![Export Screenshot](/media/export.png "Export Screenshot")
-- for further information about each module feature, please check the respective documentation;
+- for further information about each module feature, please check the respective repository documentation;
 - profit!
 
 Why not iOS?
 -----------
 
-Just because I don't have a Mac OS do compile the template. If you can do that and want to share it with us, please send a message ;)
+Just because I don't have a Mac OS to compile the template. If you can do that and want to share it with us, please send a message ;)
