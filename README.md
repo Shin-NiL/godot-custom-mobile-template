@@ -14,7 +14,8 @@ My intention is to only make available the templates of the **stable Godot versi
 
 If this project is helpful to you, please consider making a donation ;)
 
-How to use
+
+How to Use
 ----------
 
 - Download the zip file on the [releases tab](https://github.com/Shin-NiL/godot-custom-mobile-template/releases);
@@ -24,7 +25,6 @@ How to use
 - for further information about each module feature, please check the respective repository documentation;
 - profit!
 
-Why not iOS?
------------
-
-Just because I don't have a Mac OS to compile the template. If you can do that and want to share it with us, please send a message ;)
+iOS Templates
+-------------
+You can find precompiled templates for iOS on [this repository](https://github.com/GhostWalker562/godot-admob-iOS-precompiled).
