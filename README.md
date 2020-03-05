@@ -1,5 +1,13 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=3MJE3M4FMJYGN&lc=BR&item_name=Shin%2dNiL%27s%20Github&item_number=Github&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
 
+ATTENTION
+=========
+This repository has been discontinued. Starting from Godot version 3.2 you should use the new plugin system, that does not need the engine recompilation.
+- [Godot Admob Plugin](https://github.com/Shin-NiL/Godot-Android-Admob-Plugin)
+- [Godot Share Plugin](https://github.com/Shin-NiL/Godot-Android-Share-Plugin)
+
+
+
 Godot Custom Mobile Template
 ==========
 
